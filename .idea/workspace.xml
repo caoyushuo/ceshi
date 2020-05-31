@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa948068-1253-4c91-9d3a-9e0e4ab19065" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/TCPClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/TCPServer.java" afterDir="false" />
-    </list>
+    <list default="true" id="fa948068-1253-4c91-9d3a-9e0e4ab19065" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,13 +71,25 @@
       <option name="presentableId" value="Default" />
       <updated>1590650905788</updated>
     </task>
+    <task id="LOCAL-00001" summary="ceshi">
+      <created>1590896298568</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590896298568</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ceshi" />
+    <option name="LAST_COMMIT_MESSAGE" value="ceshi" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="389" y="62" key="CommitChangelistDialog2" timestamp="1590894753217">
+    <state x="389" y="58" key="CommitChangelistDialog2" timestamp="1590896293044">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="389" y="62" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1590894753217" />
+    <state x="389" y="58" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1590896293044" />
     <state x="631" y="230" key="FileChooserDialogImpl" timestamp="1590895940343">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -99,10 +98,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="354" y="131" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1590895863549" />
-    <state x="443" y="222" key="Vcs.Push.Dialog.v2" timestamp="1590896207817">
+    <state x="418" y="219" key="Vcs.Push.Dialog.v2" timestamp="1590896558450">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="443" y="222" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1590896207817" />
+    <state x="418" y="219" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1590896558450" />
     <state x="741" y="229" key="com.intellij.ide.util.TipDialog" timestamp="1590894032533">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
