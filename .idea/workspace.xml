@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa948068-1253-4c91-9d3a-9e0e4ab19065" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/TCPClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/TCPServer.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="F:\demo\BC\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cWilvlizw0uzkcD3xTwN9wqcz0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="BC" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa948068-1253-4c91-9d3a-9e0e4ab19065" name="Default Changelist" comment="" />
+      <created>1590650905788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590650905788</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="389" y="62" key="CommitChangelistDialog2" timestamp="1590894753217">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="389" y="62" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1590894753217" />
+    <state x="631" y="230" key="FileChooserDialogImpl" timestamp="1590895940343">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="631" y="230" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1590895940343" />
+    <state x="354" y="131" key="SettingsEditor" timestamp="1590895863549">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="354" y="131" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1590895863549" />
+    <state x="443" y="222" key="Vcs.Push.Dialog.v2" timestamp="1590896207817">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="443" y="222" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1590896207817" />
+    <state x="741" y="229" key="com.intellij.ide.util.TipDialog" timestamp="1590894032533">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="741" y="229" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1590894032533" />
+  </component>
+</project>
